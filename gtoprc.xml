@@ -19,8 +19,9 @@
 				nodes to be monitored at the same time.
 		-->
 		
-		<group name="services">
-			<server name="svcs"/>	
+		<group name="marfeel-gnfs">
+			<server name="ec2-54-171-130-76.eu-west-1.compute.amazonaws.com"/>
+			<server name="ec2-54-154-131-206.eu-west-1.compute.amazonaws.com"/>
 		</group>
 		<group name="rhs1">
 			<server name="rhs-1"/>
